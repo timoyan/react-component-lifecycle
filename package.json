@@ -1,0 +1,27 @@
+{
+    "name": "react-component-lifecycle",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.jsx",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Timo Yan",
+    "license": "ISC",
+    "devDependencies": {
+        "babel-core": "^6.26.0",
+        "babel-preset-env": "^1.6.1",
+        "babel-preset-react": "^6.24.1",
+        "babelify": "^8.0.0",
+        "browserify": "^14.5.0",
+        "gulp": "^3.9.1",
+        "gulp-connect": "^5.2.0",
+        "gulp-open": "^2.1.0",
+        "vinyl-source-stream": "^2.0.0"
+    },
+    "dependencies": {
+        "lodash": "^4.17.4",
+        "react": "^16.2.0",
+        "react-dom": "^16.2.0"
+    }
+}
